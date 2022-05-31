@@ -15,6 +15,6 @@ SS 2022: Tuesdays at 15:00
 - 24.05.2022	Jula Lühring:	Either Graz survey results or plan for observational studies 
 - 31.05.2022	Jana Lasser:	Twitter Inoculation project
 - 07.06.2022	Segun Aroyehun	
-- 14.06.2022	TBD
+- 14.06.2022	no seminar, Max Pellert's thesis defence
 - 21.06.2022	Sabrina Melcher: NYT Project results
 - 28.06.2022	David Garcia: Sci-Hub research
