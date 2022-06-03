@@ -17,4 +17,4 @@ SS 2022: Tuesdays at 15:00
 - 07.06.2022	Segun Aroyehun	
 - 14.06.2022	no seminar (Max Pellert's thesis defence)
 - 21.06.2022	Sabrina Melcher: NYT Project results
-- 28.06.2022	David Garcia: Sci-Hub research
+- 28.06.2022	Ivan Smirnov: Understand inequality and emotional well-being in the digital age
