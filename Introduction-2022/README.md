@@ -1,2 +1,1 @@
-# ZING-2022
-ZING talk 2022
+# Research Seminar Graz 2022
