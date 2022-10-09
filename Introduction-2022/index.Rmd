@@ -67,6 +67,9 @@ knitr::include_graphics("Topics3.svg")
 https://github.com/dgarcia-eu/CSSSeminar
 
 
+```{r, echo=FALSE, out.width=450, fig.align='center'}
+knitr::include_graphics("QR.png")
+```
 ---
 
 ## The effect of Twitter outages on user behavior 
